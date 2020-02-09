@@ -1,0 +1,1 @@
+Very simple score card app that displays two team's names and scores. Written in java
